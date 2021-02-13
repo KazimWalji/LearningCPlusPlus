@@ -18,6 +18,7 @@ int main()
 }
 
 void performOperation(double n1, double n2, char op) {
+    
      if (op == '*') {
         cout << "Multiply " <<  n1 << " and " << n2 << endl;
         cout << "The answer is: " << n1 * n2 << endl;

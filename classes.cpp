@@ -25,7 +25,7 @@ class Person: AbstractClass {
                 weight = mass;
             }
         }
-        void isOld() {
+        virtual void isOld() {
             if (age > 30)
                 cout << name << "is old" << endl;
             else {
