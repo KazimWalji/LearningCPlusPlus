@@ -1,5 +1,3 @@
-.vscode/
-.calc.cpp
-settings.json
 .vscode
-.json
+.vscode/settings.json
+switchCalc
